@@ -12,3 +12,5 @@ The purpose is to connect individuals and contractors who would normally not be 
 
 TBD
 
+Under construction:
+* ```cd django-dev``` for source code under construction in django
